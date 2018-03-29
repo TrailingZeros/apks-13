@@ -1,3 +1,55 @@
+/Root/apps/Opera Mini_19.0.2254.108926.apk
+/Root/apps/Opera Mini_20.0.2254.109835.apk
+/Root/apps/Opera Mini_20.0.2254.110104.apk
+/Root/apps/Opera Mini_20.0.2254.110285.apk
+/Root/apps/Opera Mini_20.1.2254.110627.apk
+/Root/apps/Opera Mini_21.0.2254.111677.apk
+/Root/apps/Opera Mini_21.0.2254.111920.apk
+/Root/apps/Opera Mini_22.0.2254.113472.apk
+/Root/apps/Opera Mini_23.0.2254.114353.apk
+/Root/apps/Opera Mini_23.0.2254.114819.apk
+/Root/apps/Opera Mini_23.0.2254.114923.apk
+/Root/apps/Opera Mini_24.0.2254.115213.apk
+/Root/apps/Opera Mini_24.0.2254.115609.apk
+/Root/apps/Opera Mini_24.0.2254.115689.apk
+/Root/apps/Opera Mini_24.0.2254.115784.apk
+/Root/apps/PCM録音_5.4.1.apk
+/Root/apps/PCM録音_5.5.0.apk
+/Root/apps/PCM録音_5.5.1.apk
+/Root/apps/PM-MP Servers_2.0.5.apk
+/Root/apps/PacProcessor_6.0.1.apk
+/Root/apps/PacProcessor_6.0.1.systag
+/Root/apps/PacProcessor_7.0.apk
+/Root/apps/PacProcessor_7.0.systag
+/Root/apps/PacProcessor_7.1.1.apk
+/Root/apps/PacProcessor_7.1.1.systag
+/Root/apps/Packet Capture_1.2.3.apk
+/Root/apps/Photo Editor_1.9.2.apk
+/Root/apps/Photo Editor_2.0.1.apk
+/Root/apps/Photo Editor_2.0.apk
+/Root/apps/Photo Editor_2.1.apk
+/Root/apps/Photo Editor_2.2.1.apk
+/Root/apps/Photo Editor_2.2.apk
+/Root/apps/Photo Editor_2.3.apk
+/Root/apps/Photo Editor_2.4.apk
+/Root/apps/Print Service Recommendation Service_1.0.0.apk
+/Root/apps/Print Service Recommendation Service_1.0.0.systag
+/Root/apps/Project Fi_I.2.3.34-xxhdpi (2943463).apk
+/Root/apps/Project Fi_I.2.3.34-xxhdpi (2943463).systag
+/Root/apps/Project Fi_K.2.7.20-xxhdpi (3284336).apk
+/Root/apps/Project Fi_K.2.7.20-xxhdpi (3284336).systag
+/Root/apps/ProxyHandler_6.0.1.apk
+/Root/apps/ProxyHandler_6.0.1.systag
+/Root/apps/ProxyHandler_7.0.apk
+/Root/apps/ProxyHandler_7.0.systag
+/Root/apps/ProxyHandler_7.1.1.apk
+/Root/apps/ProxyHandler_7.1.1.systag
+/Root/apps/QRコードスキャナー_4.7.5.apk
+/Root/apps/QRコードスキャナー_4.7.6.apk
+/Root/apps/QuickEditプロ_1.1.7.apk
+/Root/apps/QuickEditプロ_1.2.0.apk
+/Root/apps/QuickEditプロ_1.2.1.apk
+/Root/apps/QuickEditプロ_1.2.3.apk
 /Root/apps/MTP Host_7.0.apk
 /Root/apps/MTP Host_7.0.systag
 /Root/apps/MTP ホスト_7.1.1.apk
