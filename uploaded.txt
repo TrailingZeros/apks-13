@@ -1,3 +1,29 @@
+/Root/apps/RCS スタック_0.1 (3218347).apk
+/Root/apps/RCS スタック_0.1 (3218347).systag
+/Root/apps/RCSService_6.0.1.apk
+/Root/apps/RCSService_6.0.1.systag
+/Root/apps/RandomTextGenerator_1.0.apk
+/Root/apps/RapidLocker_1.0.apk
+/Root/apps/Retail demo_7.1.1.apk
+/Root/apps/Retail demo_7.1.1.systag
+/Root/apps/SIM Toolkit_6.0.1.apk
+/Root/apps/SIM Toolkit_6.0.1.systag
+/Root/apps/SIM Toolkit_7.0.apk
+/Root/apps/SIM Toolkit_7.0.systag
+/Root/apps/SIM Toolkit_7.1.1.apk
+/Root/apps/SIM Toolkit_7.1.1.systag
+/Root/apps/ScreenLocker_1.0.apk
+/Root/apps/Service Program_6.0-PDK2146991.apk
+/Root/apps/Service Program_6.0-PDK2146991.systag
+/Root/apps/Service Program_N.apk
+/Root/apps/Service Program_N.systag
+/Root/apps/Show Java_2.1.0.apk
+/Root/apps/SprintDM_1.0.apk
+/Root/apps/SprintDM_1.0.systag
+/Root/apps/TalkBack_4.4.1.apk
+/Root/apps/Termux_0.47.apk
+/Root/apps/Termux_0.48.apk
+/Root/apps/TestApp_1.0.apk
 /Root/apps/Opera Mini_19.0.2254.108926.apk
 /Root/apps/Opera Mini_20.0.2254.109835.apk
 /Root/apps/Opera Mini_20.0.2254.110104.apk
