@@ -1,3 +1,39 @@
+/Root/apps/MTP Host_7.0.apk
+/Root/apps/MTP Host_7.0.systag
+/Root/apps/MTP ホスト_7.1.1.apk
+/Root/apps/MTP ホスト_7.1.1.systag
+/Root/apps/Mandelbrot Map_0.13.apk
+/Root/apps/Material Theme_2.0.3.apk
+/Root/apps/MmsService_6.0.1.apk
+/Root/apps/MmsService_6.0.1.systag
+/Root/apps/MmsService_7.0.apk
+/Root/apps/MmsService_7.0.systag
+/Root/apps/MmsService_7.1.1.apk
+/Root/apps/MmsService_7.1.1.systag
+/Root/apps/MoreLocale 2_2.3.1.apk
+/Root/apps/Mushroom Consts_1.0.apk
+/Root/apps/MusicFX_1.4.apk
+/Root/apps/MusicFX_1.4.systag
+/Root/apps/NFCサービス_6.0.1.apk
+/Root/apps/NFCサービス_6.0.1.systag
+/Root/apps/NFCサービス_7.0.apk
+/Root/apps/NFCサービス_7.0.systag
+/Root/apps/NFCサービス_7.1.1.apk
+/Root/apps/NFCサービス_7.1.1.systag
+/Root/apps/NdkTestApp_1.0.apk
+/Root/apps/Nexus 5Xホーム画面_7.0.apk
+/Root/apps/Nexus 5Xホーム画面_7.0.systag
+/Root/apps/Nexus 5Xホーム画面_7.1.1.apk
+/Root/apps/Nexus 5Xホーム画面_7.1.1.systag
+/Root/apps/OctoDroid_4.0.3.apk
+/Root/apps/OctoDroid_4.0.4.apk
+/Root/apps/OctoDroid_4.0.5.apk
+/Root/apps/OctoDroid_4.1.1.apk
+/Root/apps/Ok Google enrollment_7.0.apk
+/Root/apps/Ok Google enrollment_7.0.systag
+/Root/apps/Ok Google enrollment_7.1.1.apk
+/Root/apps/Ok Google enrollment_7.1.1.systag
+/Root/apps/Opera Mini_18.0.2254.106542.apk
 /Root/apps/LemiGit_1.0.apk
 /Root/apps/LifeTimerService_6.0-PDK2175658.apk
 /Root/apps/LifeTimerService_6.0-PDK2175658.systag
