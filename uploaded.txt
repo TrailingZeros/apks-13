@@ -1,3 +1,38 @@
+/Root/apps/Googleキーボード_4.1.23103.2862625.systag
+/Root/apps/Googleキーボード_4.1.23103.3067468.systag
+/Root/apps/Googleサービスフレームワーク_6.0.1.apk
+/Root/apps/Googleサービスフレームワーク_6.0.1.systag
+/Root/apps/Googleサービスフレームワーク_7.0.apk
+/Root/apps/Googleサービスフレームワーク_7.0.systag
+/Root/apps/Googleサービスフレームワーク_7.1.1.apk
+/Root/apps/Googleサービスフレームワーク_7.1.1.systag
+/Root/apps/Googleパートナーのセットアップ_6.0.1.apk
+/Root/apps/Googleパートナーのセットアップ_6.0.1.systag
+/Root/apps/Googleパートナーのセットアップ_7.0.apk
+/Root/apps/Googleパートナーのセットアップ_7.0.systag
+/Root/apps/Googleパートナーのセットアップ_7.1.1.apk
+/Root/apps/Googleパートナーのセットアップ_7.1.1.systag
+/Root/apps/Googleヒンディー語入力_2.3.1.100257128-preload-armeabi-v7a.systag
+/Root/apps/Googleピンイン入力_4.1.2.98367006-preload-armeabi-v7a.systag
+/Root/apps/Google接続サービス_D.1.5.14 (3327632).apk
+/Root/apps/Google接続サービス_D.1.5.20 (3627382).apk
+/Root/apps/HTMLビューア_6.0.1.apk
+/Root/apps/HTMLビューア_6.0.1.systag
+/Root/apps/HTMLビューア_7.0.apk
+/Root/apps/HTMLビューア_7.0.systag
+/Root/apps/HTMLビューア_7.1.1.apk
+/Root/apps/HTMLビューア_7.1.1.systag
+/Root/apps/ImageResizer_1.0.apk
+/Root/apps/Input Devices_6.0.1.apk
+/Root/apps/Input Devices_6.0.1.systag
+/Root/apps/Input Devices_7.0.apk
+/Root/apps/Input Devices_7.0.systag
+/Root/apps/Input Devices_7.1.1.apk
+/Root/apps/Input Devices_7.1.1.systag
+/Root/apps/Intent Filter Verification Service_1.0.apk
+/Root/apps/Intent Filter Verification Service_1.0.systag
+/Root/apps/Intent Intercept_2.2.4.apk
+/Root/apps/Intent Intercept_2.2.5.apk
 /Root/apps/CaptivePortalLogin_7.1.1.systag
 /Root/apps/Carrier Entitlement_7.0.apk
 /Root/apps/Carrier Entitlement_7.0.systag
