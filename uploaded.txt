@@ -1,3 +1,32 @@
+/Root/apps/URL Shortener_3.0.3.apk
+/Root/apps/URL Shortener_3.0.4.apk
+/Root/apps/URL Shortener_3.0.5.apk
+/Root/apps/UUIDGenerator_1.0.apk
+/Root/apps/UnicodeCodepointViewer_1.0.apk
+/Root/apps/VpnDialogs_6.0.1.apk
+/Root/apps/VpnDialogs_6.0.1.systag
+/Root/apps/VpnDialogs_7.0.apk
+/Root/apps/VpnDialogs_7.0.systag
+/Root/apps/VpnDialogs_7.1.1.apk
+/Root/apps/VpnDialogs_7.1.1.systag
+/Root/apps/WRcon_3.0.apk
+/Root/apps/Wisecraft Tokikaze_4.0 Pre v4.apk
+/Root/apps/Wisecraft_4.0.apk
+/Root/apps/YouTube共有アドレスの修正と再共有_2.1.apk
+/Root/apps/ZipSigner_3.4.apk
+/Root/apps/com.android.backupconfirm_6.0.1.apk
+/Root/apps/com.android.backupconfirm_6.0.1.systag
+/Root/apps/com.android.backupconfirm_7.0.apk
+/Root/apps/com.android.backupconfirm_7.0.systag
+/Root/apps/com.android.backupconfirm_7.1.1.apk
+/Root/apps/com.android.backupconfirm_7.1.1.systag
+/Root/apps/com.android.carrierconfig_1.0.0.apk
+/Root/apps/com.android.carrierconfig_1.0.0.systag
+/Root/apps/com.android.connectivity.metrics.App_1.0.apk
+/Root/apps/com.android.connectivity.metrics.App_1.0.systag
+/Root/apps/com.android.connectivity.metrics_1.0.apk
+/Root/apps/com.android.connectivity.metrics_1.0.systag
+/Root/apps/com.android.cts.ctsshim_7.0-2996264.apk
 /Root/apps/RCS スタック_0.1 (3218347).apk
 /Root/apps/RCS スタック_0.1 (3218347).systag
 /Root/apps/RCSService_6.0.1.apk
