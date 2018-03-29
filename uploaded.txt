@@ -1,3 +1,16 @@
+/Root/apps/LemiGit_1.0.apk
+/Root/apps/LifeTimerService_6.0-PDK2175658.apk
+/Root/apps/LifeTimerService_6.0-PDK2175658.systag
+/Root/apps/Live Wallpaper Picker_6.0.1.apk
+/Root/apps/Live Wallpaper Picker_6.0.1.systag
+/Root/apps/Live Wallpaper Picker_7.0.apk
+/Root/apps/Live Wallpaper Picker_7.0.systag
+/Root/apps/Live Wallpaper Picker_7.1.1.apk
+/Root/apps/Live Wallpaper Picker_7.1.1.systag
+/Root/apps/LotsOfLinesGenerator_1.0.apk
+/Root/apps/MCPE ServerList Editor_1.0.apk
+/Root/apps/MCPE Skin Changer CONVERTER_compatible with 0.4.1~.apk
+/Root/apps/MCPE Skin Changer REJECTS_compatible with 0.4.1~.apk
 /Root/apps/Googleキーボード_4.1.23103.2862625.systag
 /Root/apps/Googleキーボード_4.1.23103.3067468.systag
 /Root/apps/Googleサービスフレームワーク_6.0.1.apk
