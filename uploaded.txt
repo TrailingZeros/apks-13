@@ -1,3 +1,38 @@
+/Root/apps/エンタイトルメント_N.apk
+/Root/apps/エンタイトルメント_N.systag
+/Root/apps/カメラ_4.1.006.126161292.systag
+/Root/apps/カメラ_4.2.032.137500632.systag
+/Root/apps/カレンダーの保存_6.0.1.apk
+/Root/apps/カレンダーの保存_6.0.1.systag
+/Root/apps/カレンダーの保存_7.0.apk
+/Root/apps/カレンダーの保存_7.0.systag
+/Root/apps/カレンダーの保存_7.1.1.apk
+/Root/apps/カレンダーの保存_7.1.1.systag
+/Root/apps/キーチェーン_6.0.1.apk
+/Root/apps/キーチェーン_6.0.1.systag
+/Root/apps/キーチェーン_7.0.apk
+/Root/apps/キーチェーン_7.0.systag
+/Root/apps/キーチェーン_7.1.1.apk
+/Root/apps/キーチェーン_7.1.1.systag
+/Root/apps/クラウド プリント_1.33b.apk
+/Root/apps/クラウド プリント_1.36b.apk
+/Root/apps/シェル_6.0.1.apk
+/Root/apps/シェル_6.0.1.systag
+/Root/apps/シェル_7.0.apk
+/Root/apps/シェル_7.0.systag
+/Root/apps/シェル_7.1.1.apk
+/Root/apps/シェル_7.1.1.systag
+/Root/apps/システムUI_6.0.1.apk
+/Root/apps/システムUI_6.0.1.systag
+/Root/apps/システムUI_7.0.systag
+/Root/apps/システムUI_7.1.1.systag
+/Root/apps/ストレージ マネージャ_7.1.1.systag
+/Root/apps/ストレージの設定_6.0.1.apk
+/Root/apps/ストレージの設定_6.0.1.systag
+/Root/apps/ストレージの設定_7.0.apk
+/Root/apps/ストレージの設定_7.0.systag
+/Root/apps/ストレージの設定_7.1.1.apk
+/Root/apps/ストレージの設定_7.1.1.systag
 /Root/apps/com.android.cts.ctsshim_7.0-2996264.systag
 /Root/apps/com.android.cts.priv.ctsshim_7.0-2996264.apk
 /Root/apps/com.android.cts.priv.ctsshim_7.0-2996264.systag
